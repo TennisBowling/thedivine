@@ -17,9 +17,9 @@ The Divine is an immortality chain of randomness entropy, which is collected fro
 [{"constant":false,"inputs":[],"name":"rand","outputs":[{"name":"result","type":"bytes32"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"inputs":[],"payable":false,"stateMutability":"nonpayable","type":"constructor"},{"payable":true,"stateMutability":"payable","type":"fallback"},{"anonymous":false,"inputs":[{"indexed":false,"name":"_sender","type":"address"},{"indexed":false,"name":"_complex","type":"uint256"},{"indexed":false,"name":"_randomValue","type":"bytes32"}],"name":"NewRand","type":"event"}]
 ```
 
-**Contract Address:** [0xf0068C4b8ea178CaaC88B70136BEe03b7953E479](https://etherscan.io/address/0xf0068C4b8ea178CaaC88B70136BEe03b7953E479)
+**Contract Address:** [0xb5f4c3e4b51b853bdbca188acd7a4e4d21c38a2a](https://etherscan.io/address/0xb5f4c3e4b51b853bdbca188acd7a4e4d21c38a2a)
 ```
-0xf0068C4b8ea178CaaC88B70136BEe03b7953E479
+0xb5f4c3e4b51b853bdbca188acd7a4e4d21c38a2a
 ```
 
 **Usage:**
